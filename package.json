@@ -1,0 +1,15 @@
+{
+  "name": "pi_squid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "squid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pigpio": "^0.6.1",
+    "color-convert": "^1.9"
+  },
+  "author": "",
+  "license": "ISC"
+}
